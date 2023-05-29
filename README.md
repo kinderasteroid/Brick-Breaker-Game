@@ -15,7 +15,7 @@ NOTE: ( The Below Method is applicable only for the first phase of the Project, 
 ```
 $ git clone https://github.com/kinderasteroid/Brick-Breaker-Game
 $ cd brickbreaker/BrickBreaker
-$ g++ BrickBreaker.cpp -lGL -lGLU -lglut
+$ g++ BrickBreakerp1.cpp -lGL -lGLU -lglut
 $ ./a.out
 ```
 If Problem Presist,Feel Free and Lucky to contact @kinderasteroid
